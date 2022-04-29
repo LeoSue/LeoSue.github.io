@@ -9,14 +9,14 @@
 title: 苏春雨的个人技术日记
 brief-intro: C、C++ and Python Coder
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://LeoSue.github.io" # the base hostname & protocol for your site
+url: "https://scy321.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
 twitter_username: #gaohaoyang126
 facebook_username: #gaohaoyang.water
-github_username:  LeoSue
+github_username:  scy321
 email: su18237805830@163.com
 weibo_username: u/5831052851/home?wvr=5&topnav=1&mod=logo
 zhihu_username: su-su-89-78-18/activities
